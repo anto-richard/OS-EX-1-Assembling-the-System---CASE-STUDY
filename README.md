@@ -1,4 +1,4 @@
-![p1](https://github.com/anto-richard/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/93427534/b4369508-e8be-4f6f-8274-f58deb6b7556)# <p align="center"> OS-EX-1-Assembling-the-System---CASE-STUDY </p>
+# <p align="center"> OS-EX-1-Assembling-the-System---CASE-STUDY </p>
 
 ### AIM : 
 
